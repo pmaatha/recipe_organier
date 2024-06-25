@@ -1,6 +1,6 @@
 # RecipeBook🍴
 
-**RecipeBook** is a beginner-level CRUD project that serves as a recipe book, developed using the MERN stack. It features a simple user interface for creating recipes, viewing all recipes, and saving recipes from other users. The project incorporates authentication using JSON Web Tokens (JWTs) for secure access.
+A recipe organizer application where users can create a personal cookbook, add recipes, and categorize them. Each user should see only their own recipes after logging in. The app should feature an appealing interface with options to upload pictures and instructions for each recipe.
 
 ## Technologies Used
 
@@ -21,21 +21,9 @@
 - View All Recipes: Access a list of all recipes stored in the database.
 - Save Recipes: Users can save recipes created by other users for future reference.
 
-## Deployment
 
-The project is deployed online with the backend hosted on Render and the frontend hosted on Vercel.
-You can access the deployed version of the application here - [recipeeebook.vercel.app](https://recipeeebook.vercel.app/)
 
-- Backend: [Render](https://render.com/)
-- Frontend: [Vercel](https://vercel.com/)
 
-## Screenshots
-
-## ![image](https://github.com/shrudex/recipe-book/assets/91502997/21949042-ad24-430a-b371-876b2586ebd7)
-
-## ![image](https://github.com/shrudex/recipe-book/assets/91502997/d94314fc-271b-4a9c-9bbd-73007d884aeb)
-
-![image](https://github.com/shrudex/recipe-book/assets/91502997/4b45f392-0309-4d32-b438-30aa213777a0)
 
 ## Getting Started
 
@@ -52,6 +40,5 @@ To get started with the Recipe Book project, follow these steps:
 - `server/`: Contains the backend code built with Node.js and Express.
 - `client/`: Contains the frontend code built with React and Tailwind CSS.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or would like to suggest enhancements, feel free to open an issue or submit a pull request.
+
